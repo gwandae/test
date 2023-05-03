@@ -1,0 +1,7 @@
+2023-05-03 23:29:01: -- 분석이 Command Line: sync /all에 의해 시작되었습니다.
+2023-05-03 23:29:01: 오른쪽: State file does not exist: C:/Users/Gwandae/Documents/test/pdf/test2nd/_gsdata_/_file_state_v4._gs
+2023-05-03 23:29:01: 변경됨: 0, 불일치: 0, 시간 복사: 0, 상태 복사: 172, 오류: 0, All: 528
+2023-05-03 23:29:01: == Command Line: sync /all에 의해 동기화가 시작되었습니다.
+2023-05-03 23:29:01: Start only 0 threads, limited by tasks to run
+2023-05-03 23:29:01: Cannot init Recycled DB: 지정된 경로를 찾을 수 없습니다.  (error 3)
+2023-05-03 23:29:01: == 동기화 완료. 시간: 00:00:00, 속도: 0.00/s, 완료 항목: 172, 오류 항목: 0
